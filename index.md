@@ -26,3 +26,7 @@ If you want more information about the Club or want to join us, visit our [MocSy
 You can also Email any of the officers if you are interested in joining!
 
 If you are someone who's thinking about attending UTC and want to know how to, visit the [Admissions Page](https://www.utc.edu/about/admissions) on ho wto get a tour of the campus and apply!
+
+🌎 HACK THE PLANET 🌎
+
+![Hack the Planet GIF](https://media0.giphy.com/media/14kdiJUblbWBXy/giphy.gif?cid=ecf05e47wuwtna9kvixlahbr9p7zeuxzd4c9wqog3v4gcsav&rid=giphy.gif)
