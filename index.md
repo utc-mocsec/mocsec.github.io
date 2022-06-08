@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to MocSec
 
-You can use the [editor on GitHub](https://github.com/utc-mocsec/utc-mocsec.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+We are a club from the University of Tennessee at Chattanooga competiting in Cyberforce and Collegiate Cyber Defense Competition (CCDC)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Officers
 
-### Markdown
+#### President
+Alex McCormack (Graduate)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you need to contact Alex, you can email him at president@mocsec.org
 
-```markdown
-Syntax highlighted code block
+#### Vice President
+Chase Carroll
 
-# Header 1
-## Header 2
-### Header 3
+If you need to contact Chase, you can email him at vp@mocsec.org
 
-- Bulleted
-- List
+#### Chief Technology Officer/Tresurer
+Alex Tetzlaff
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/utc-mocsec/utc-mocsec.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you need to contact Alex, you can email him at cto@mocsec.org or call (423) 425-1352
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you want more information about the Club or want to join us, visit our [MocSync Page](https://mocsyncorgs.utc.edu/organization/mocsec)
+
+You can also Email any of the officers if you are interested in joining!
+
+If you are someone who's thinking about attending UTC and want to know how to, visit the [Admissions Page](https://www.utc.edu/about/admissions) on ho wto get a tour of the campus and apply!
